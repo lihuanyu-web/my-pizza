@@ -1,5 +1,7 @@
 # lhy-pizza
 
+[点击查看]( https://lihuanyu-web.github.io/my-pizza/dist/index)
+
 > A Vue.js project
 
 ## Build Setup
